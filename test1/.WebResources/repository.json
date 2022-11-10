@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/test.Resource-Resource.json",
+        "type": "generated"
+    }]
+}
